@@ -1,0 +1,12 @@
+[
+  {
+    "image": "https://via.placeholder.com/400x200?text=Promo+1",
+    "title": "Промо 1",
+    "description": "Описание первого промо"
+  },
+  {
+    "image": "https://via.placeholder.com/400x200?text=Promo+2",
+    "title": "Промо 2",
+    "description": "Описание второго промо"
+  }
+]
