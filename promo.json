@@ -11,31 +11,11 @@
       "promoDescriptionEn": "Register in the Ayu Garant mobile app from 15.06.2025 to 31.08.2025 and automatically receive 300 bonus points in your account.\n\nHow to use bonuses:\nYou can spend bonus points when purchasing an OSAGO policy or other insurance products directly in the app.\n1 bonus = 1 som\n\nImportant:\n✅ Bonuses are credited only if you register during the specified period\n✅ Bonuses can be used for the first time when purchasing a policy valid for at least 3 months (OSAGO) or 6 months (other insurance types)\n\nStay updated and enjoy the benefits!",
       "promoDescriptionKy": "АЮ Гарант мобилдик тиркемесине 15.06.2025тен 31.08.2025ке чейин катталып, дароо эле эсебиңизге 300 бонус алыңыз.\n\nБонустарды колдонуу:\nБонустарды ОСАГО же башка камсыздандыруу продуктыларын тиркеменин ичинде сатып алууда колдонсо болот.\n1 бонус = 1 сом\n\nМаанилүү маалымат:\n✅ Бонустар көрсөтүлгөн мөөнөттө катталган учурда гана берилет\n✅ Бонустарды биринчи жолу пайдалануу ОСАГО үчүн 3 айдан, башка камсыздандыруу үчүн 6 айдан кем эмес мөөнөткө полис сатып алууда мүмкүн\n\nЖаңылыктарды калтырбай, пайдалуу мүмкүнчүлүктөрдү колдонуңуз!"
     }
-  },
-  {
-    "image": "https://raw.githubusercontent.com/VainAmigo/ayu-einsurance-mobile-promo/main/images/promoBanner1.png",
-    "promoTitle": {
-      "promoTitleRu": "Получи бонусы за первую покупку!",
-      "promoTitleEn": "Get bonuses for your first purchase!",
-      "promoTitleKy": "Биринчи сатып алууга бонус ал!"
+    "promoLink": "https://www.agi.kg/",
+    "promoLinkText": {
+      "promoLinkTextRu": "Узнать подробнее",
+      "promoLinkTextEn": "Read more",
+      "promoLinkTextKy": "Көбүрөөк билүү",
     },
-    "promoDescription": {
-      "promoDescriptionRu": "Соверши первую покупку полиса в приложении АЮ Гарант и получи 10% от суммы в виде бонусов на счёт.\n\nУсловия:\n— Бонусы начисляются автоматически\n— Максимум 500 бонусов за одну покупку\n— Используй бонусы при следующей оплате",
-      "promoDescriptionEn": "Make your first policy purchase in the Ayu Garant app and receive 10% of the amount as bonus points.\n\nConditions:\n— Bonuses are credited automatically\n— Maximum 500 bonus points per purchase\n— Use them on your next payment",
-      "promoDescriptionKy": "АЮ Гарант тиркемесинде биринчи жолу полис сатып алып, сумманын 10% бонус катары алыңыз.\n\nШарттар:\n— Бонустар автоматтык түрдө эсепке алынат\n— Бир сатып алууга максимум 500 бонус\n— Кийинки төлөмдө колдонсо болот"
-    }
   },
-  {
-    "image": "https://raw.githubusercontent.com/VainAmigo/ayu-einsurance-mobile-promo/main/images/promoBanner1.png",
-    "promoTitle": {
-      "promoTitleRu": "Приведи друга — получи бонусы! 👥",
-      "promoTitleEn": "Refer a friend — earn bonuses! 👥",
-      "promoTitleKy": "Дос чакыр — бонус ал! 👥"
-    },
-    "promoDescription": {
-      "promoDescriptionRu": "Поделись своей реферальной ссылкой. За каждого друга, который зарегистрируется и оформит полис, ты получишь 200 бонусов.\n\nНеограниченное количество приглашений!",
-      "promoDescriptionEn": "Share your referral link. For each friend who registers and buys a policy, you’ll get 200 bonus points.\n\nNo invitation limit!",
-      "promoDescriptionKy": "Рефералдык шилтемеңиз менен бөлүшүңүз. Катталган жана полис сатып алган ар бир досуңуз үчүн 200 бонус алыңыз.\n\nЧектөөсүз чакыруу мүмкүнчүлүгү!"
-    }
-  }
 ]
