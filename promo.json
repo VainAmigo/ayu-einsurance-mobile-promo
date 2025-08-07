@@ -21,25 +21,6 @@
   {
     "image": "https://raw.githubusercontent.com/VainAmigo/ayu-einsurance-mobile-promo/main/images/promoBanner1.png",
     "promoTitle": {
-      "promoTitleRu": "Минус 20% на КАСКО",
-      "promoTitleEn": "20% off CASCO",
-      "promoTitleKy": "КАСКОго 20% арзандатуу"
-    },
-    "promoDescription": {
-      "promoDescriptionRu": "Получите скидку 20% при оформлении полиса КАСКО через мобильное приложение до 31 июля 2025 года.\n\nАкция распространяется на новые страховые договоры.",
-      "promoDescriptionEn": "Get a 20% discount when purchasing a CASCO policy through the mobile app until July 31, 2025.\n\nThe offer is valid for new insurance contracts only.",
-      "promoDescriptionKy": "КАСКО камсыздандыруусун 2025-жылдын 31-июлуна чейин тиркеме аркылуу тариздөөгө 20% арзандатуу берилет.\n\nСунуш жаңы келишимдерге гана тиешелүү."
-    },
-    "promoLink": "https://www.agi.kg/",
-    "promoLinkText": {
-      "promoLinkTextRu": "Подробнее об акции",
-      "promoLinkTextEn": "More about the offer",
-      "promoLinkTextKy": "Сунуш тууралуу кененирээк"
-    }
-  },
-  {
-    "image": "https://raw.githubusercontent.com/VainAmigo/ayu-einsurance-mobile-promo/main/images/promoBanner1.png",
-    "promoTitle": {
       "promoTitleRu": "Бонусы за рекомендации",
       "promoTitleEn": "Referral Bonuses",
       "promoTitleKy": "Доско сунуштап — бонус ал"
