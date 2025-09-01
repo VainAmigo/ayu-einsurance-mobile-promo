@@ -1,6 +1,10 @@
 [
   {
-    "image": "https://raw.githubusercontent.com/VainAmigo/ayu-einsurance-mobile-promo/main/images/promoBanner1.png",
+    "image": {
+      "imageRu": "https://raw.githubusercontent.com/VainAmigo/ayu-einsurance-mobile-promo/main/images/promoBanner1.png",
+      "imageEn": "https://raw.githubusercontent.com/VainAmigo/ayu-einsurance-mobile-promo/main/images/promoBanner1.png",
+      "imageKy": "https://raw.githubusercontent.com/VainAmigo/ayu-einsurance-mobile-promo/main/images/promoBanner1.png",
+    },
     "promoTitle": {
       "promoTitleRu": "Скачай приложение — получи 300 бонусов! 🎁",
       "promoTitleEn": "Download the app — get 300 bonus points! 🎁",
