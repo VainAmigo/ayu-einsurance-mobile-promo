@@ -1,8 +1,8 @@
 [ 
   { "image": 
-    { "imageRu": "https://raw.githubusercontent.com/VainAmigo/ayu-einsurance-mobile-promo/main/images/promoBannerRu.jpg", 
-      "imageEn": "https://raw.githubusercontent.com/VainAmigo/ayu-einsurance-mobile-promo/main/images/promoBannerEn.jpg", 
-      "imageKy": "https://raw.githubusercontent.com/VainAmigo/ayu-einsurance-mobile-promo/main/images/promoBannerKy.jpg" 
+    { "imageRu": "https://raw.githubusercontent.com/VainAmigo/ayu-einsurance-mobile-promo/main/images/promoBannerRu.png", 
+      "imageEn": "https://raw.githubusercontent.com/VainAmigo/ayu-einsurance-mobile-promo/main/images/promoBannerEn.png", 
+      "imageKy": "https://raw.githubusercontent.com/VainAmigo/ayu-einsurance-mobile-promo/main/images/promoBannerKy.png" 
     }, 
   "promoTitle": 
     { "promoTitleRu": "Уважаемые клиенты!", 
