@@ -10,9 +10,9 @@
       "promoTitleKy": "Урматтуу кардарлар!" 
     }, 
   "promoDescription": 
-    { "promoDescriptionRu": "Вы получаете 15% бонусов с каждого оформленного полиса.\nНакопленные бонусы можно использовать при покупке следующих полисов — как для себя, так и для ваших близких.",
-      "promoDescriptionEn": "You receive 15% bonuses from every issued policy.\nThe accumulated bonuses can be used when purchasing future policies — for yourself or your loved ones.",
-      "promoDescriptionKy": "Сиз ар бир таризделген полис үчүн 15% бонус аласыз.\nТоптолгон бонус балдарын кийинки полистерди сатып алууда — өзүңүз үчүн же жакындарыңыз үчүн колдонсоңуз болот."
+    { "promoDescriptionRu": "Вы получаете 30% бонусов с каждого оформленного полиса.\nНакопленные бонусы можно использовать при покупке следующих полисов — как для себя, так и для ваших близких.",
+      "promoDescriptionEn": "You receive 30% bonuses from every issued policy.\nThe accumulated bonuses can be used when purchasing future policies — for yourself or your loved ones.",
+      "promoDescriptionKy": "Сиз ар бир таризделген полис үчүн 30% бонус аласыз.\nТоптолгон бонус балдарын кийинки полистерди сатып алууда — өзүңүз үчүн же жакындарыңыз үчүн колдонсоңуз болот."
     }, 
   "promoLink": "", 
   "promoLinkText": 
