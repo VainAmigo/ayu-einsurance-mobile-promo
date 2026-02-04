@@ -20,6 +20,12 @@
       "promoLinkTextRu": "",
       "promoLinkTextEn": "",
       "promoLinkTextKy": ""
+    },
+    "version": {
+      "minAndroidVersion": "1.0.9",
+      "maxAndroidVersion": "1.0.9",
+      "minIosVersion": "1.0.9",
+      "maxIosVersion": "1.0.9"
     }
   }
 ]
