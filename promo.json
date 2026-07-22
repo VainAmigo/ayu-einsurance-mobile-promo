@@ -23,9 +23,9 @@
     },
     "version": {
       "minAndroidVersion": "1.0.9",
-      "maxAndroidVersion": "1.1.0",
+      "maxAndroidVersion": "1.1.1",
       "minIosVersion": "1.0.9",
-      "maxIosVersion": "1.1.0"
+      "maxIosVersion": "1.1.1"
     }
   }
 ]
